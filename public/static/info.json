@@ -1,0 +1,43 @@
+{
+  "name": "Vipin Kumar",
+  "address": "India 🇮🇳",
+  "bio": "I'm creative Software Developer based in India, and I'm very passionate and dedicated to my work.",
+  "mainSkill": "Full Stack Developer",
+  "img": "/img/slider/vipin-photoroom.png",
+  "skills": [
+    {
+      "name": "illustrator ",
+      "icon": "/img/skills/js.png",
+      "color": "rgb(247, 80, 35)",
+      "value": 85
+      
+
+    },
+    {
+      "name": "photoshop ",
+      "icon": "/img/skills/aws.png",
+      "color": "rgb(28, 190, 89)",
+      "value": 95
+    },
+    {
+      "name": "figma ",
+      "icon": "/img/skills/python.png",
+      "color": "rgb(128, 103, 240)",
+      "value": 75
+    }
+  ],
+  "languages":[
+
+  ],
+  "social": [
+    { "name": "Github", "icon": "icon-github-1", "url": "https://github.com/vipin172000" },
+    { "name": "linkedin", "icon": "icon-linkedin-1", "url": "https://www.linkedin.com/in/vipin-kumar-96141b2b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"},
+    { "name": "Instagram", "icon": "icon-instagram-1", "url": "https://www.instagram.com/vipiinnnn/" },
+    { "name": "twitter", "icon": "icon-twitter-1", "url": "https://x.com/VIPINGAMER4?t=tNYmq1XBk26dw-9vLJo5wA&s=09" }
+  ],
+  "contact": {
+    "address": "Delhi, India",
+    "email": "mevipin17@gmail.com",
+    "phn": "+91 9968615275"
+  }
+}
